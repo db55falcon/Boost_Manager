@@ -1,5 +1,8 @@
 # Boost_Manager
-AMD version
+AMD version/may work with Intel
+
+
+You can try this on Intel (will do no harm!) just may not work
 
 
 After code inspection, feel free to download the PMPRO, or PM_light executables/exe.
