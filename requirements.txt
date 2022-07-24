@@ -1,0 +1,8 @@
+comtypes==1.1.11
+customtkinter==4.5.10
+darkdetect==0.7.1
+psutil==5.9.1
+pywin32==304
+pywinauto==0.6.8
+six==1.16.0
+WMI==1.5.1
