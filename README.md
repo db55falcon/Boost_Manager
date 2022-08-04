@@ -1,8 +1,14 @@
 # Boost_Manager
-AMD version/may work with Intel
 
+## Why disabling boost is useful
 
-You can try this on Intel (will do no harm!) just may not work
+Disabling CPU boost limits the CPU clock frequency, which reduces the amount of power it uses, and as a result lowers its overall temperature. Disabling CPU boost while playing games often results in better framerates because the GPU has more thermal headroom (can draw more power and run hotter), and most games are GPU bound (meaning the GPU is the limiting factor in delivering more frames, not the CPU).
+
+While disabling CPU boost results in a cooler system overall and potentally higher FPS while gaming, it does affect the overall performance of your system, so it's probably a good idea to disable CPU boost while gaming, but enable it when you are not gaming to get the best performance while doing productivity work, browsing the web or doing anything else really.
+
+## Limitations
+
+Currently only works with AMD CPUs (may work with Intel, your mileage may vary).
 
 
 After code inspection, feel free to download the PMPRO(has the temp features), or PM_light(no temp features) executables/exe. (Or just clone 🙃)
